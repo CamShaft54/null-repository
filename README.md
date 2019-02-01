@@ -10,7 +10,8 @@
 - [x] Make Headers
 - [ ] Make Actual Code
 
-##Title For My Table 1
+## Title For My Table 1
+
 |My Table 1|Price|
 |:---|:---|
 |My Sandwich|$1|
