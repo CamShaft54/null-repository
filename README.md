@@ -4,7 +4,7 @@
 ### It is about **null**
 #### I am making headers
 ##### So far I've made 5
-###### CHANGE CHANGE CHANGE
+###### This is 6, will the next one work?
 
 ## My Checklist
 - [x] Make Headers
@@ -12,12 +12,12 @@
 
 ## Title For My Table 1
 
-|My Table 1|Price|
+|iTeM|Price|
 |:---|:---|
 |My Sandwich|$1|
-|Kaveer's Signature Grilled Cheese®|-$34|
-|Dorian's Hot Tomato Soup®|$100000000|
-|Dorian's Exclusive Premium-Grade Sound Effex®|Contact Us For A Quote|
+|Kaveer's Signature Grilled Cheese®|priceless|
+|Dorian's Hot Tomato Soup®|$1000|
+|Dorian's Exclusive Premium-Grade Sound fx®|Contact Us For A Quote|
 
 ## Hi-Quality Musix
 
@@ -25,7 +25,7 @@
 ![Never Gonna Give You Up](http://digitalspyuk.cdnds.net/15/48/1280x719/gallery-1448452218-rick-astley-never-gonna-give-you-up.jpg)
 [**Link**](https://youtu.be/dQw4w9WgXcQ)
 
-## **Important Info**
+# _**Important Info**_
 
 Title: Highly Unconfidential
 Alex-> Bobby: Do this
